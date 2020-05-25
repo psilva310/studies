@@ -8,3 +8,6 @@ index: Local onde o Git armazena o que será commitado, ou seja, o local entre a
 
 
 https://devhints.io/git-log
+
+
+NUNCA COMITAR UM CODIGO QUE NAO FUNCIONA
