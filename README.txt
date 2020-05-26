@@ -11,3 +11,7 @@ https://devhints.io/git-log
 
 
 NUNCA COMITAR UM CODIGO QUE NAO FUNCIONA
+
+
+
+Alternativa correta! Com o git checkout nós desfazemos uma alteração que ainda não foi adicionada ao index ou stage, ou seja, antes do git add. Depois de adicionar com git add, para desfazer uma alteração, precisamos tirá-la deste estado, com git reset. Agora, se já realizamos o commit, o comando git revert pode nos salvar.
